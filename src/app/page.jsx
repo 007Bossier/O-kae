@@ -1,5 +1,5 @@
 "use client";
-import React, { useState, useRef } from "react"; // Combine all React imports here
+import React, { useState, useRef, useEffect } from "react"; // Combine all React imports here
 
 import { useUpload } from "../utilities/runtime-helpers";
 
