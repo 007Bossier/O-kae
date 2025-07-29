@@ -1,6 +1,8 @@
 "use client";
 import React, { useState } from "react";
 
+import React, { useRef } from 'react';
+
 import { useUpload } from "../utilities/runtime-helpers";
 
 function MainComponent() {
